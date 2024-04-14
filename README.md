@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I'm Hamza Shafique!
 
-<!--
-**hamza-56/hamza-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Cloud/Backend Engineer ready to dive into your next project!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me:**
+
+- 🔭 I have over **5 years of experience** as a Cloud/Backend Engineer.
+- 🌱 I’m currently diving deep into **AI technologies** and advanced cloud solutions.
+- 👯 I’m looking to collaborate on projects involving **Python, Docker, AWS, and Google Cloud**.
+- 🥅 2023 Goals: Contribute to more open source projects and expand my knowledge in **LangChain**.
+- ⚡ Fun fact: I love to explore new tech and write about my experiences.
+
+---
+
+**Languages and Tools:**
+
+- **Python** (Flask, Django, FastAPI, SQLAlchemy, Pandas)
+- **Cloud Platforms:** Google Cloud, AWS
+- **DevOps Tools:** Docker, Kubernetes
+- **Others:** LangChain, Cloud Architecture (Load Balancers, Cloud Functions, VPCs, Reverse Proxies like NGINX)
+
+---
+
+📫 **How to reach me:**
+- Email: [hamzashafiquehere@gmail.com](mailto:hamzashafiquehere@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamzashafique56/)
