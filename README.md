@@ -9,7 +9,7 @@
 - 🔭 I have over **5 years of experience** as a Cloud/Backend Engineer.
 - 🌱 I’m currently diving deep into **AI technologies** and advanced cloud solutions.
 - 👯 I’m looking to collaborate on projects involving **Python, Docker, AWS, and Google Cloud**.
-- 🥅 2023 Goals: Contribute to more open source projects and expand my knowledge in **LangChain**.
+- 🥅 2024 Goals: Contribute to more open source projects and expand my knowledge in **LangChain**.
 - ⚡ Fun fact: I love to explore new tech and write about my experiences.
 
 ---
