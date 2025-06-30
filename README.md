@@ -6,7 +6,7 @@
 
 **About Me:**
 
-- 🔭 I have over **5 years of experience** as a Cloud/Backend Engineer.
+- 🔭 I have over **7 years of experience** as a Cloud/Backend Engineer.
 - 🌱 I’m currently diving deep into **AI technologies** and advanced cloud solutions.
 - 👯 I’m looking to collaborate on projects involving **Python, Docker, AWS, and Google Cloud**.
 - 🥅 2024 Goals: Contribute to more open source projects and expand my knowledge in **LangChain**.
