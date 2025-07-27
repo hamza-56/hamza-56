@@ -1,28 +1,28 @@
 ### Hi there 👋, I'm Hamza Shafique!
 
-#### I'm a Cloud/Backend Engineer ready to dive into your next project!
+#### Cloud/Backend Engineer | Cloud & AI Enthusiast
 
 ---
 
 **About Me:**
 
-- 🔭 I have over **7 years of experience** as a Cloud/Backend Engineer.
-- 🌱 I’m currently diving deep into **AI technologies** and advanced cloud solutions.
-- 👯 I’m looking to collaborate on projects involving **Python, Docker, AWS, and Google Cloud**.
-- 🥅 2024 Goals: Contribute to more open source projects and expand my knowledge in **LangChain**.
-- ⚡ Fun fact: I love to explore new tech and write about my experiences.
+- 🔭 Over 7 years of experience in cloud and backend engineering, building scalable, high-performance systems.
+- 🌱 Currently diving into advanced AI technologies and cloud-native architectures.
+- 👯 Open to collaborating on projects using Python, Docker, AWS, and Google Cloud.
+- 🥅 **2025 Goals**: Contribute to more open source projects, deepen expertise in LangChain, and learn **Rust**.
 
 ---
 
-**Languages and Tools:**
+**Languages & Tools:**
 
-- **Python** (Flask, Django, FastAPI, SQLAlchemy, Pandas)
-- **Cloud Platforms:** Google Cloud, AWS
-- **DevOps Tools:** Docker, Kubernetes
-- **Others:** LangChain, Cloud Architecture (Load Balancers, Cloud Functions, VPCs, Reverse Proxies like NGINX)
+- **Languages & Frameworks:** Python (Flask, Django, FastAPI, SQLAlchemy, Pandas)  
+- **Cloud Platforms:** Google Cloud, AWS  
+- **DevOps & Infrastructure:** Docker, Kubernetes, Load Balancers, Reverse Proxies, Lambda, Cloud Run, VPCs  
+- **Others:** LangChain, Cloud Architecture & Design Patterns
 
 ---
 
-📫 **How to reach me:**
-- Email: [hamzashafiquehere@gmail.com](mailto:hamzashafiquehere@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamzashafique56/)
+📫 **Get in Touch:**
+
+- 📧 [hamzashafiquehere@gmail.com](mailto:hamzashafiquehere@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamzashafique56/)
